@@ -7,22 +7,27 @@ LogReg with RandomOverSampling
  * BAS: 0.645
  * REC: 0.70
  * PRE: 0.01
+ 
 LogReg with SMOTE
  * BAS: 0.626
  * REC: 0.59
  * PRE: 0.01
+ 
 LogReg with ClusterCentroids
  * BAS: 0.547
  * REC: 0.65
  * PRE: 0.01
+ 
 LogReg with SMOTEENN
  * BAS: 0.606
  * REC: 0.62
  * PRE: 0.01
+ 
 BalancedRandomForest
  * BAS: 0.666
  * REC: 0.45
  * PRE: 0.02
+ 
 EasyEnsembleClassifier
  * BAS: 0.745
  * REC: 0.66
